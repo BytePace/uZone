@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">uZone</string>
+    <string name="android_maps_apikey">YOU_API_KEY</string>
+    <string name="clear_map">Clear map</string>
+    <string name="draw_a_polygon_on_the_map">Draw a polygon on the map</string>
+    <string name="draw_on_map">Draw on map</string>
+    <string name="close_draw">Close draw</string>
+</resources>
