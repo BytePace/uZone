@@ -1,7 +1,7 @@
 # uZone
 This project demonstrates the function of selecting objects, marked in advance on the map with markers. Selecting objects implemented through the drawing a polygon, covering the marks on the map.</br>
 
-To view this application you can download apk-file from the ![link](https://drive.google.com/file/d/0B-q6JVJiavWqZGRqM2IweE5sWTA/view?usp=sharing).
+To view this application you can download apk-file from the ![link](https://github.com/BytePace/uZone/blob/master/uZone.apk).
 ## Instruction
 1) To put the selection mode
 
